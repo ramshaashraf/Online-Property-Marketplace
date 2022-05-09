@@ -1,7 +1,7 @@
 # Online-Property-Marketplace-
 An application where you can buy, sell  and/or rent properties  (apartments &amp; villas) online
 
-- [ ] Transfer files from hard drive
+- [X] Transfer files from hard drive
 - [ ] Install MySQL
 - [ ] Search alternative for Neatbeans 8.2
 - [X] Intall JDK
